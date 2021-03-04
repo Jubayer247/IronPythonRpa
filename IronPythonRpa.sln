@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IronPythonRpa", "IronPythonRpa.pyproj", "{5ECEF51E-C6B3-469E-9A4A-6604229D1928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ECEF51E-C6B3-469E-9A4A-6604229D1928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECEF51E-C6B3-469E-9A4A-6604229D1928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED04B5C7-9BCE-40D9-B213-C38A6D4E8609}
+	EndGlobalSection
+EndGlobal
